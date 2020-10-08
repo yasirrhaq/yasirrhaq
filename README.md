@@ -1,8 +1,5 @@
 ### Hi Everyone 👋
 
-<!--
-**yasirrhaq/Yasirrhaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi! My name is Muhammad Yasir Anshari Haq, a student of Informatics Engineering at Faculty of Computer Science Brawijaya University. I'm highly motivated to learn everything about IT especially in Game Development. Skilled in Java, C#, and Unity.
 
 ## Social Media
