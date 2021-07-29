@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-Hi! My name is Muhammad Yasir Anshari Haq, a student of Informatics Engineering at Faculty of Computer Science Brawijaya University. I'm highly motivated to learn everything about IT especially in Game Development. Skilled in Java, C#, and Unity.
+Hi! My name is Muhammad Yasir Anshari Haq, a student of Informatics Engineering at Faculty of Computer Science Brawijaya University. I'm highly motivated to learn everything about IT. Skilled in Java, C#, Kotlin, PHP, Windows Application, Android and Unity.
 
 ## Social Media
 Hit me up on social media
