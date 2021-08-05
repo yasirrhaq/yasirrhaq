@@ -1,6 +1,7 @@
-### Hi Everyone 👋
+### Hi Everyone, I'm Yasir 👋
+![](https://komarev.com/ghpvc/?username=yasirrhaq)
 
-Hi! My name is Muhammad Yasir Anshari Haq, a student of Informatics Engineering at Faculty of Computer Science Brawijaya University. I'm highly motivated to learn everything about IT. Skilled in Java, C#, Kotlin, PHP, Windows Application, Android and Unity.
+I'm a student of Informatics Engineering at Faculty of Computer Science Brawijaya University. I'm highly motivated to learn everything about IT. Skilled in Java, C#, Kotlin, PHP, Windows Application, Android and Unity.
 
 ## Social Media
 Hit me up on social media
