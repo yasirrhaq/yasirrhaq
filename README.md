@@ -17,3 +17,9 @@ Hit me up on social media
 ## Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=yasirrhaq&show_icons=true">
+<a href="https://github.com/yasirrhaq">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirrhaq&langs_count=5" />
+</a>
+
+### Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=yasirrhaq)
