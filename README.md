@@ -9,9 +9,6 @@ Hit me up on social media
   <a href="https://www.linkedin.com/in/muhammad-yasir-anshari-haq/">
     <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/linkedin-box-fill-1.png" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/yasirrhaq">
-    <img width="35px" src="https://icons.veryicon.com/png/o/brands/logo-1/instagram-fill-2.png" />
-  </a>&nbsp;&nbsp;
 </p>
 
 ## Stats:
