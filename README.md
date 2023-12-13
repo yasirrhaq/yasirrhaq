@@ -1,7 +1,5 @@
-### Hi Everyone 👋
+### Hi 👋
 ![](https://komarev.com/ghpvc/?username=yasirrhaq)
-
-I'm highly motivated to learn everything about IT. Skilled in Java, C#, Kotlin, PHP, Windows Application, Android and Unity.
 
 ## Stats:
 
