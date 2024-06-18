@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and a lifelong
 
 ## 🔥 Featured Projects
 
-[**GelutKuy Game Project**](https://github.com/yasirrhaq/GelutKuy) - Dive into the fun!
+[**HackerRank](https://github.com/yasirrhaq/HackerRank) - Idk what im doing here lol.
 
 [**Auto Loot RF Online**](https://github.com/yasirrhaq/Auto_Loot_RF_Online) - Automated loot for RF Online.
 
