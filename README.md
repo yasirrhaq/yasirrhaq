@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and a lifelong
 
 ## 📫 How to Reach Me
 
-[**LinkedIn**](https://www.linkedin.com/in/asdfghjklqwertyuiopzxcvbnm186/)
+[**LinkedIn**](https://www.linkedin.com/in/yasirhaq/)
 
 ## 📚 I'm Currently Learning
 
