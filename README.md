@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm a passionate software developer and a lifelong
 
 ## 🛠 Skills and Tools
 
-- **Languages:** C#, Python, Java, ShaderLab, PHP (Laravel)
-- **Technologies:** .NET, Unity, Android Development
-- **Tools:** Visual Studio, Eclipse, Android Studio
+- **Languages:** C#, Python, Java, Dart, PHP (Laravel)
+- **Technologies:** .NET, Unity, Android Development (Native & Flutter)
+- **Tools:** Visual Studio, Eclipse, Android Studio, Unity
 
 ## 📈 GitHub Stats
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and a lifelong
 
 ## 📚 I'm Currently Learning
 
-- Backend (Go Lang)
+- Flutter (Dart)
 
 ## 🤝 How I Collaborate
 
