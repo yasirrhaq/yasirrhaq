@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and a lifelong
 
 ## 📚 I'm Currently Learning
 
-- Flutter (Dart)
+- Node.js
 
 ## 🤝 How I Collaborate
 
