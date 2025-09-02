@@ -29,6 +29,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and a lifelong
 ## 📚 I'm Currently Learning
 
 - Node.js
+- Web Dev Basic (Re-learning)
 
 ## 🤝 How I Collaborate
 
