@@ -1,10 +1,10 @@
 # Hi there, I'm Yasir! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer and a lifelong learner dedicated to improving every day. Mostly code for fun by making external tools to help me playing games but i do code profesionally also. Feel free to explore and reach out if you're interested in collaborating or learning more about my work!
+Welcome to my GitHub profile! I'm a passionate software developer and a lifelong learner dedicated to improving every day. I mostly code for fun by creating external tools to help me play games, but I also code professionally. Feel free to explore and reach out if you're interested in collaborating or learning more about my work!
 
 ## 🔥 Featured Projects
 
-[**HackerRank**](https://github.com/yasirrhaq/HackerRank) - Idk what im doing here lol.
+[**HackerRank**](https://github.com/yasirrhaq/HackerRank) - Idk what I'm doing here lol.
 
 [**Auto Loot RF Online**](https://github.com/yasirrhaq/Auto_Loot_RF_Online) - Automated loot for RF Online.
 
@@ -28,12 +28,12 @@ Welcome to my GitHub profile! I'm a passionate software developer and a lifelong
 
 ## 📚 I'm Currently Learning
 
-- Node.js
-- Web Dev Basic (Re-learning)
+- Re-Learning Web Dev Basic (HTML, CSS, JS)
+- Tailwind CSS
 
 ## 🤝 How I Collaborate
 
-I value open communication, constructive feedback, and a positive work environment. If you're interested in teaming up, let's connect and make something great together!
+I value open communication, constructive feedback, and a positive work environment. If you're interested in teaming up, let's connect and create something great together!
 
 Thank you for visiting my GitHub profile. Don't forget to check back often to see what new projects I'm working on!
 
