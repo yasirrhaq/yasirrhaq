@@ -1,12 +1,12 @@
 # Hi there, I'm Yasir! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer and a lifelong learner dedicated to improving every day. I mostly code for fun by creating external tools to help me play games, but I also code professionally. Feel free to explore and reach out if you're interested in collaborating or learning more about my work!
+Welcome to my GitHub profile! I'm a passionate software developer and a lifelong learner dedicated to improving every day. I mostly code for fun by creating external tools to help me play games, but I also code professionally as a Full Stack / Backend Engineer with experience building web applications and mobile solutions. I'm comfortable working in remote environments and international teams. Feel free to explore and reach out if you're interested in collaborating or learning more about my work!
 
 ## 🔥 Featured Projects
 
-[**HackerRank**](https://github.com/yasirrhaq/HackerRank) - Idk what I'm doing here lol.
+[**HackerRank**](https://github.com/yasirrhaq/HackerRank) - Practicing Logic.
 
-[**Auto Loot RF Online**](https://github.com/yasirrhaq/Auto_Loot_RF_Online) - Automated loot for RF Online.
+[**Auto Loot RF Online**](https://github.com/yasirrhaq/Auto_Loot_RF_Online) - Automated loot for RF Online. Built for efficiency and configurability.
 
 [**Epic RPG Autotyper**](https://github.com/yasirrhaq/EPIC-RPG-Autotyper) - Autotyper tool for [Epic RPG](https://top.gg/bot/555955826880413696).
 
