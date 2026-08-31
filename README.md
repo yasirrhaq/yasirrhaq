@@ -1,48 +1,51 @@
 # Hi there, I'm Yasir! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer and a lifelong learner dedicated to improving every day. I mostly code for fun by creating external tools to help me play games, but I also code professionally as a Full Stack / Backend Engineer with experience building web applications and mobile solutions. I'm comfortable working in remote environments and international teams. Feel free to explore and reach out if you're interested in collaborating or learning more about my work!
+Welcome to my GitHub profile! I'm a passionate software developer and lifelong learner focused on building useful web and mobile applications. I work primarily as a Full Stack / Backend Engineer, and I also enjoy creating tools and side projects for games and automation.
+
+I'm comfortable working in remote environments and international teams. Feel free to explore my projects or reach out if you're interested in collaborating.
 
 ## 🔥 Featured Projects
 
-[**HackerRank**](https://github.com/yasirrhaq/HackerRank) - Practicing Logic.
-
-[**Auto Loot RF Online**](https://github.com/yasirrhaq/Auto_Loot_RF_Online) - Automated loot for RF Online. Built for efficiency and configurability.
-
-[**Epic RPG Autotyper**](https://github.com/yasirrhaq/EPIC-RPG-Autotyper) - Autotyper tool for [Epic RPG](https://top.gg/bot/555955826880413696).
-
-[**Auto Purchase Market Item SMMO**](https://github.com/yasirrhaq/AutomatedMarketPurchaseSMMO) - Auto purchase market item for [SMMO](https://web.simple-mmo.com/home).
+- [**HackerRank**](https://github.com/yasirrhaq/HackerRank) — Practicing logic and problem solving.
+- [**Auto Loot RF Online**](https://github.com/yasirrhaq/Auto_Loot_RF_Online) — Automated loot tool for RF Online.
+- [**Epic RPG Autotyper**](https://github.com/yasirrhaq/EPIC-RPG-Autotyper) — Autotyper tool for Epic RPG.
+- [**Auto Purchase Market Item SMMO**](https://github.com/yasirrhaq/AutomatedMarketPurchaseSMMO) — Automated market purchasing tool for SMMO.
 
 ## 🛠 Skills and Tools
 
-- **Languages:** C#, Python, Java, Dart, PHP (Laravel)
-- **Technologies:** .NET, Unity, Android Development (Native & Flutter)
-- **Tools:** Visual Studio, Eclipse, Android Studio, Unity
+- **Languages:** PHP, C#, Python, Java, Dart, JavaScript / TypeScript
+- **Backend:** Laravel, .NET, REST APIs, MySQL
+- **Frontend:** React, Tailwind CSS
+- **Mobile:** Flutter, Android Development
+- **Other:** Unity, Git, GitHub, Linux
 
-## 📈 GitHub Stats
+## 📊 GitHub Overview
 
-![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirrhaq&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasirrhaq&theme=github_dark" alt="Yasir's GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasirrhaq&theme=github_dark" alt="Top languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasirrhaq&theme=github_dark" alt="Top languages by commits" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasirrhaq&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yasirrhaq&theme=github_dark&utcOffset=8" alt="Productive time" />
+</p>
 
 ## 📫 How to Reach Me
 
-[**LinkedIn**](https://www.linkedin.com/in/yasirhaq/)
+- [LinkedIn](https://www.linkedin.com/in/yasirhaq/)
 
-## 📚 I'm Currently Learning
+## 📚 Currently Learning
 
-- Re-Learning Web Dev Basic (HTML, CSS, JS)
-- Tailwind CSS
+- Modern web development
+- Laravel ecosystem
+- React and TypeScript
+- Backend architecture and API design
 
 ## 🤝 How I Collaborate
 
-I value open communication, constructive feedback, and a positive work environment. If you're interested in teaming up, let's connect and create something great together!
-
-Thank you for visiting my GitHub profile. Don't forget to check back often to see what new projects I'm working on!
-
-## Stats:
-
-<img src="https://github-readme-stats.vercel.app/api?username=yasirrhaq&show_icons=true&theme=onedark">
-<a href="https://github.com/yasirrhaq">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirrhaq&langs_count=5&theme=onedark" />
-</a>
-
-### Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=yasirrhaq&theme=onedark)
+I value open communication, constructive feedback, and a positive work environment. If you're interested in teaming up, let's connect and build something useful together.
